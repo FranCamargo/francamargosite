@@ -1,6 +1,6 @@
 # Fran Camargo · Portfólio
 
-Site pessoal de Franciely Camargo, Front-End Developer e UI/UX Specialist.
+Portfólio, Front-End Developer e UI/UX Specialist.
 
 ## Stack
 

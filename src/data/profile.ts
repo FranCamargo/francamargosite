@@ -2,7 +2,7 @@ export const profile = {
   name: 'Franciely Camargo',
   shortName: 'Fran Camargo',
   role: 'Front-End Developer',
-  specialty: 'UI/UX Specialist',
+  specialty: 'UI/UX ',
   email: 'francamargoads@gmail.com',
   linkedin: 'https://www.linkedin.com/in/francamargodev',
   linkedinHandle: '@francamargodev',
@@ -66,6 +66,14 @@ export const projects: Project[] = [
     featured: true,
     description:
       'SPA que simula uma plataforma de assistente de IA com autenticação, histórico de conversas persistido e análise de uso. Estudo prático de React com Redux. Acesse com qualquer senha; usuário "Admin" desbloqueia um dashboard de análise (inicie conversas para ver os dados, pois é mockado com persistência local).',
+  },
+  {
+    name: 'BestElements',
+    kind: 'Web',
+    url: 'https://francamargo.github.io/bestElements/',
+    stack: ['React', 'TypeScript', 'Vite'],
+    description:
+      'Galeria autoral com 90 componentes visuais (botões, inputs, cards, loaders, dashboards, players e padrões visuais) e uma coleção de telas mobile, cada um com preview interativo. Conta com busca, ordenação por nome, data, tipo e coleção, favoritos, paginação e tema claro/escuro. Um laboratório de UI para estudo, inspiração e referência, em expansão contínua.',
   },
   {
     name: 'OneRing Chat',

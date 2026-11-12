@@ -1,6 +1,6 @@
 # Fran Camargo · Portfólio
 
-Portfólio, Front-End Developer e UI/UX Specialist.
+Portfólio, Front-End Developer e UI/UX .
 
 ## Stack
 

@@ -28,8 +28,9 @@ export function HomePage() {
             </span>
             <span className="hl-row" aria-hidden="true">
               <span className="hl-amp">&amp;</span>
-              <span className="hl-outline">engenharia</span>
-              <span className="hl-dot">.</span>
+              <span className="hl-outline">
+                engenharia<span className="hl-dot">.</span>
+              </span>
             </span>
           </h1>
           <p className="hero-lead">

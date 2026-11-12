@@ -674,9 +674,12 @@ body::before {
   color: var(--text);
 }
 
+/* O ponto fica no mesmo fluxo de texto de "engenharia" (mesma linha de base);
+   o contorno da mesma espessura faz a base dele coincidir com a das letras. */
 .hl-dot {
-  margin-left: -0.18em;
+  margin-left: 0.08em;
   color: var(--accent-bright);
+  -webkit-text-stroke: 1.5px var(--accent-bright);
 }
 
 .hero-lead {
